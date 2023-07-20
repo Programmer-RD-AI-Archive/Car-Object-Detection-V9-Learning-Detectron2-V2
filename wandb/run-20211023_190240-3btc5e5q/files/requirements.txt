@@ -191,7 +191,7 @@ pycparser==2.20
 pydantic==1.8.2
 pydeck==0.7.0
 pydot==1.4.2
-pygments==2.10.0
+pygments==2.15.0
 pyopenssl==20.0.1
 pyparsing==2.4.7
 pyrsistent==0.17.3
