@@ -35,7 +35,7 @@ clearml==1.0.4
 click==8.0.1
 cloudpickle==1.6.0
 configparser==5.0.2
-cryptography==3.4.8
+cryptography==41.0.3
 cycler==0.10.0
 cython==0.29.23
 debugpy==1.4.1
